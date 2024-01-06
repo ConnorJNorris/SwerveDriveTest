@@ -17,12 +17,13 @@ public class Robot extends TimedRobot {
    * This function is run when the robot is first started up and should be used for any
    * initialization code.
    */
+  int a = 3;
   @Override
   public void robotInit() {}
 
   @Override
   public void robotPeriodic() {}
-
+// random comment
   @Override
   public void autonomousInit() {}
 
